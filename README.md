@@ -1,6 +1,6 @@
 # Welcome to PWA with Siray!
 
-This project is a companion to my blog post, "No, You CAN Design":
+This project is a companion to my blog post, "No, You CAN Design": https://siraysoiree.medium.com/no-you-can-design-785d0c8ad22e
 
 Use this boilerplate to practice utilizing Grommet's Responsive Context (https://v2.grommet.io/responsivecontext) in order to create fully responsive, mobile-first UIs.
 
