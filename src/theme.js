@@ -1,4 +1,4 @@
-export default {
+const theme = {
   name: 'pwa with siray',
   rounding: 12,
   spacing: 24,
@@ -183,3 +183,5 @@ export default {
     round: '12px',
   },
 };
+
+export default theme;
