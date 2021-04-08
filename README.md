@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Welcome to PWA with Siray!
+
+This project is a companion to my blog post, "No, You CAN Design":
+
+Use this boilerplate to practice utilizing Grommet's Responsive Context (https://v2.grommet.io/responsivecontext) in order to create fully responsive, mobile-first UIs.
+
+Use `npm start` to run the app (http://localhost:3000) and see your current screen size in the heading. Using "device toolbar" dev tools or manual window resizing, shrink and grow the view area to see the current screen size change.
+
+Use `useContext` hooks in combination with Responsive Context in order to change render behavior based on the current screen size.
+
+For more information on Grommet, check out their website (https://v2.grommet.io/) and read their docs (https://v2.grommet.io/docs)!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<details><summary>Read more</summary>
 
 ## Available Scripts
 
@@ -68,3 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
